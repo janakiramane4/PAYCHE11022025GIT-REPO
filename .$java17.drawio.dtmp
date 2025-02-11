@@ -1,0 +1,13 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/26.0.9 Chrome/128.0.6613.186 Electron/32.2.5 Safari/537.36" version="26.0.9">
+  <diagram name="Page-1" id="KRTKgXCFX_DQU7FtzlbC">
+    <mxGraphModel dx="1709" dy="991" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="LJdETfLBlr2QsZqNzQhN-1" value="Diamond Operator for Anonymous Inner Classes &#xa;Stream API Improvements &#xa;Collection Factory Methods &#xa;Private Methods in Interfaces &#xa;Modular System (Project Jigsaw) &#xa;New Stack-Walking API &#xa;Compact Strings &#xa;Local-Variable Type Inference &#xa;Switch Expressions &#xa;Pattern Matching &#xa;Compact Number Formatting &#xa;Text Blocks &#xa;Records &#xa;Sealed Classes &#xa;Strong encapsulation of JDK internals" style="text;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=17;" parent="1" vertex="1">
+          <mxGeometry x="80" y="40" width="410" height="330" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
