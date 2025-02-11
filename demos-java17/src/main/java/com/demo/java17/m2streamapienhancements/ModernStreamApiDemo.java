@@ -26,7 +26,10 @@ public class ModernStreamApiDemo {
                 .takeWhile(t -> t.getAmount().compareTo(BigDecimal.valueOf(400)) < 0)
                 .forEach(System.out::println);
 
+        System.out.println("\n DropWhile Lab");
         //3. dropWhile(Lab) use case : to skip smaller transactions.
+        transactionList.stream().dropWhile(t -> t.getAmount().compareTo(BigDecimal.valueOf(105)) < 0)
+                .forEach(System.out::println);
 
         //4. ofNullable : Handle nullable transaction (JAVA 9)
         System.out.println("========= Working with Nullable Transactions =============");
